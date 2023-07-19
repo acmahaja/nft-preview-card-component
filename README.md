@@ -27,13 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot/desktop.jpg)
+![](./screenshot/mobile.jpg)
 
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/acmahaja/nft-preview-card-component)
+- Live Site URL: [Live](https://acmahaja.github.io/nft-preview-card-component/)
 
 ## My process
 
