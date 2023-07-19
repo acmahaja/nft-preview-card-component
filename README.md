@@ -36,7 +36,6 @@ Users should be able to:
 - Solution URL: [Github](https://github.com/acmahaja/nft-preview-card-component)
 - Live Site URL: [Live](https://acmahaja.github.io/nft-preview-card-component/)
 
-## My process
 
 ### Built with
 
@@ -44,14 +43,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-### What I learned
-
-### Continued development
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 ## Author
 
